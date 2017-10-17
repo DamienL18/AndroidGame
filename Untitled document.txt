@@ -1,0 +1,6 @@
+﻿Konner Valen
+Mr. Landfried
+Computer Science Period 3
+October 8 2017
+Written Response
+Overall the android app project was a very fun and interactive experience with android apps. Our app is a soundboard with pop up pictures going along with the sound. One of our problems were uploading the full video of the sound but ran into a lot of problems with the coding blocks and couldn't get it to work exactly right so we just went with a picture from the video and used those instead. We also ran into problems with the notifier we didn't know exactly what to do and where to put it but we finally figured out an idea on where to put it and we just put it on the about page. My partner and I worked on the coding blocks together but I picked out the sounds and pictures in imported and set them up by myself.
