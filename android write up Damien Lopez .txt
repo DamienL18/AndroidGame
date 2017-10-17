@@ -1,0 +1,6 @@
+﻿Damien Lopez
+Mr.Landfried
+Computer Science p.3
+October 18 2017
+Written Response:
+        Overall the android app project was a very fun and interactive, hands on experience. The app my partner and I created was a soundboard with pop up pictures.One of the problems we encountered was uploading a video in order to use it for the sounds. We had tried numerous amounts of  different code blocks in order to get the video to play, which in the end we discovered just using call sound play would play as well, which was strenuous to go throughout the blocks and implement for the other sound files and connected onto buttons. Another difficulty that was encountered was the notifier. To fix the notifier we had to add a clock with a second interval which we had to look back at past projects to learn about the clock and how we used it which could be found in the about page. One thing I did by myself was figure out how to put pictures on the bottom when we click a button on the actual soundboard page aka screen 2 and by using a canvas and sprite.
